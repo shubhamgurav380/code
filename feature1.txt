@@ -1,1 +1,1 @@
-First feature implemented.
+Implemented Logout Page
